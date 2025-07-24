@@ -133,7 +133,7 @@ Result: fully routable service, zero dependency on a premium TLD, future-proof a
 
 ---
 
-## 09   Future Work
+## 9   Future Work
 
 * **Trust Roots Governance** – Community working group to curate root resolver lists, akin to Mozilla’s CA program.
 * **Layer-2 Routing Enhancements** – Leverage SVCB/HTTPS RRs for protocol-optimized endpoints (HTTP/3-only, ECH).
