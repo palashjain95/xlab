@@ -18,19 +18,19 @@ This is not a codebase. It's an evolving canvas of questions, frameworks, and pr
 ![Domain: Web Infrastructure](https://img.shields.io/badge/Domain-Web%20Infrastructure-blueviolet.svg)
 
 > A lightweight, open protocol that decouples naming from DNS, enabling AI agents to resolve human-friendly aliases based on identity and context.
-> [`paper.md`](whitepapers/oirp/paper.md) · [`summary.md`](whitepapers/oirp/summary.md)
+> [`paper.md`](whitepapers/oirp/paper.md) · [`README.md`](whitepapers/oirp/README.md)
 
 ### Human Context Economy (HCE)
 ![Domain: AI Economics](https://img.shields.io/badge/Domain-AI%20Economics-blueviolet.svg)
 
 > As AI commoditises general reasoning, niche human context becomes the scarce asset — mapped here as six opportunity layers from capture and credentialing to upskilling and discovery.
-> [`paper.md`](whitepapers/hce/paper.md) · [`summary.md`](whitepapers/hce/summary.md)
+> [`paper.md`](whitepapers/hce/paper.md) · [`README.md`](whitepapers/hce/README.md)
 
 ### Bharat Universal DevOps (B.U.D)
 ![Domain: Digital Public Infrastructure](https://img.shields.io/badge/Domain-Digital%20Public%20Infrastructure-blueviolet.svg)
 
 > A policy proposal to extend India's Digital Public Architecture (Aadhaar, UPI) into cloud deployment — giving every student and startup a zero-friction path from code to production.
-> [`paper.md`](whitepapers/bud/paper.md) · [`summary.md`](whitepapers/bud/summary.md)
+> [`paper.md`](whitepapers/bud/paper.md) · [`README.md`](whitepapers/bud/README.md)
 
 ---
 
